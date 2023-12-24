@@ -1,4 +1,4 @@
-#the benfit of this is we do not have to create too many attributes. (see lines 6 and 7 being commented out)
+# Compare this with "quiz_brain" for learning purposes. The benfit of this is we do not have to create too many attributes. (see lines 6 and 7 being commented out)
 # calling one function within another and passing arguments (line 26, 29, 30)
 
 class QuizBrain:
